@@ -1,0 +1,20 @@
+{
+  "name": "si1718-mam-sandbox",
+  "version": "1.0.0",
+  "description": "02 Nov. Session 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/si1718/si1718-mam-sandbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/si1718/si1718-mam-sandbox/issues"
+  },
+  "homepage": "https://github.com/si1718/si1718-mam-sandbox#readme"
+}
