@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/si1718/si1718-mam-sandbox/issues"
   },
-  "homepage": "https://github.com/si1718/si1718-mam-sandbox#readme"
+  "homepage": "https://github.com/si1718/si1718-mam-sandbox#readme",
+  "dependencies" : {
+      "express" : "^4.16.2"
+  }
 }
